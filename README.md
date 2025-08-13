@@ -1,4 +1,4 @@
-# Calcify
+# Mathica
 
 **Calcify** is a modern, web-based scientific calculator built with **Django**.  
 It allows basic arithmetic operations (+, -, *, /) as well as advanced mathematical functions including square, cube, roots, factorial, logarithms, exponentials, and trigonometric functions. The project is designed to be **modular, responsive, and interactive**, with AJAX support for instant calculations.
